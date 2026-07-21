@@ -64,16 +64,6 @@ Status      :: ONLINE ●
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alsyqem&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsyqem&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=alsyqem&theme=github-dark-blue&hide_border=true"/>
 
 </div>
