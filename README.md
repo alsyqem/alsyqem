@@ -35,7 +35,7 @@ Name        :: Alsyqem
 
 Role        :: Discord Developer
 
-Currently   :: Building DotCord
+Currently   :: Building 
 
 Learning    :: JavaScript
                Python
