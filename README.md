@@ -1,26 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:050505,100:181818&text=ALSYQEM&fontColor=FFFFFF&fontSize=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=185&color=0:000000,100:121212&text=ALSYQEM&fontColor=FFFFFF&fontSize=56&fontAlignY=52&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Discord+Developer;JavaScript+Learner;Python+Learner;Building+Projects.;Always+Learning."/>
-
-<br>
-
-### Build • Learn • Experiment
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=alsyqem&style=for-the-badge&label=PROFILE+VIEWS&color=111111"/>
-
-<img src="https://img.shields.io/github/followers/alsyqem?style=for-the-badge&logo=github&color=111111"/>
-
-<img src="https://img.shields.io/github/stars/alsyqem?style=for-the-badge&logo=github&color=111111"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3400&pause=1000&color=F2F2F2&center=true&vCenter=true&width=900&lines=Welcome+to+my+workspace.;Learning+because+I'm+curious.;Building+projects+in+my+free+time.;Turning+ideas+into+code.;Always+improving%2C+one+commit+at+a+time."/>
 
 <br><br>
 
-<img src="https://lanyard.cnrad.dev/api/549154066924568586?theme=dark&bg=0d1117&animated=true&showDisplayName=true&borderRadius=18px"/>
+<img src="https://lanyard.cnrad.dev/api/549154066924568586?theme=dark&bg=000000&animated=true&hideTimestamp=true&showDisplayName=true&borderRadius=22px"/>
 
 </div>
 
@@ -29,42 +17,66 @@
 # ▌ SYSTEM
 
 ```console
+Microsoft Windows [Version 11.0.26100]
+
 PS C:\Users\Alsyqem> whoami
 
 Name        :: Alsyqem
+Role        :: Student Developer
 
-Role        :: Discord Developer
+PS C:\Users\Alsyqem> systeminfo
 
-Currently   :: Building 
+Focus       :: Learning by building
+Editor      :: Visual Studio Code
+Shell       :: PowerShell
+Git         :: Active
 
-Learning    :: JavaScript
-               Python
-               HTML
-               CSS
-               Node.js
+PS C:\Users\Alsyqem> learning
 
-Editor      :: VS Code
+JavaScript
+Node.js
+Python
+HTML
+CSS
 
-Status      :: ONLINE ●
+Status      :: ONLINE
 ```
 
 ---
 
 # ▌ TECH STACK
 
+```console
+PS C:\Users\Alsyqem> stack --list
+
+Languages   :: JavaScript
+               Python
+               HTML
+               CSS
+
+Runtime     :: Node.js
+
+Tools       :: Git
+               GitHub
+               VS Code
+               Discord
+```
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,python,nodejs,html,css,github,vscode,discord"/>
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,python,html,css,git,github,vscode,discord"/>
 
 </div>
 
 ---
 
-# ▌ GITHUB ANALYTICS
+# ▌ GITHUB STATS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alsyqem&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alsyqem&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=d8d8d8&icon_color=ffffff"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=alsyqem&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -92,10 +104,6 @@ Status      :: ONLINE ●
 
 <div align="center">
 
-> *"The best projects begin with curiosity."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:181818,100:050505"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:121212,100:000000"/>
 
 </div>
