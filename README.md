@@ -74,8 +74,6 @@ Tools       :: Git
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alsyqem&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=d8d8d8&icon_color=ffffff"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=alsyqem&theme=transparent&hide_border=true"/>
 
 </div>
